@@ -1,0 +1,13 @@
+{
+    "name": "vega/demo",
+    "description": "this is a composer demo.",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+         "psr-4": {
+            "Vega\\Test\\": "src/psr4"       
+        }
+    }
+}
